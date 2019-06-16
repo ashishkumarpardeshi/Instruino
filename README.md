@@ -1,0 +1,2 @@
+# Instruino
+Instruino is (one of the DIY Lab Instruments) a common platform for multiple sensors. It provide measurements regarding pH, Turbidity, Temperature of liquid, Humidity, ambient Temperature and Light Intensity. Basically it is an IOT device capable of sending data to internet via WiFi and also contains bluetooth and SD Card logging facility. The complete set is done o  half size drawing board with casing and other 3D printed part.
